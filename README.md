@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @RamiNaama
-- 👀 I’m interested in The Software Engineering.
-- 🌱 I’m currently learning Java.
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning HTML & CSS.
+- 🧑‍🎓 I'm a grad student of Software Engineering at The University of Detroit Mercy.
+- 🧑‍🎓 I finished Java & Data Structure classes at UDMercy.
 - 📫 How to reach me (raminaama@yahoo.com)
 
 <!---
