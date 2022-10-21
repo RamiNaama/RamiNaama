@@ -4,6 +4,7 @@
 - 🧑‍🎓 I'm a grad student of Software Engineering at The University of Detroit Mercy.
 - 🧑‍🎓 I finished Java & Data Structure classes at UDMercy.
 - 📫 How to reach me (raminaama@yahoo.com)
+- 🖇️ LinkedIn (linkedin.com/in/raminaama)
 
 <!---
 RamiNaama/RamiNaama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
