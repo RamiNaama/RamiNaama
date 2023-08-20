@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning HTML & CSS.
 - 🧑‍🎓 I'm a grad student of Software Engineering at The University of Detroit Mercy.
-- 🧑‍🎓 I finished Java & Data Structure classes at UDMercy.
+- 🧑‍🎓 The courses I got from the University of Detroit Mercy: (Java, Data Structures, Software requirements engineering, Architectures for Software Systems, Artificial Intelligence, Data Mining, Data Science, and Database Management).
 - 📫 How to reach me (raminaama@yahoo.com)
 - 🖇️ LinkedIn (linkedin.com/in/raminaama)
 
