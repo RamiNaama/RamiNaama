@@ -8,7 +8,7 @@
 - Static websites I built:
 - (https://raminaama.github.io/Tea-cozy-HTML-CSS/)
 - (https://raminaama.github.io/VCLHomepage/MainPage/VCLHomePage.html)
-- (https://raminaama.github.io/VCLHomepage/ExperimentsPage/Experiments.html#testPad4)
+- (https://raminaama.github.io/VCLHomepage/MainPage/VCLHomePage.html#Experiments)
 
 <!---
 RamiNaama/RamiNaama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
