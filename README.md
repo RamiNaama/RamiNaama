@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @RamiNaama
-- 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning HTML & CSS.
+- 👋Hello there! My name is Rami Naama.
+- 👀 I'm interested in Web Development.
+- 🌱 I'm currently learning HTML & CSS.
 - 🧑‍🎓 I'm a grad student of Software Engineering at The University of Detroit Mercy.
-- 🧑‍🎓 The courses I got from the University of Detroit Mercy: (Java, Data Structures, Software requirements engineering, Architectures for Software Systems, Artificial Intelligence, Data Mining, Data Science, and Database Management).
-- 📫 How to reach me (raminaama@yahoo.com)
-- 🖇️ LinkedIn (linkedin.com/in/raminaama)
+- 🧑‍🎓 The courses I got from the University of Detroit Mercy: (Java, Data Structures, Software Requirements Engineering, Architectures for Software Systems, Artificial Intelligence, Data Mining, Data Science, and Database Management).
+- This semester (Fall 2023), I enrolled in one class (Software Engineer) and got an internship opportunity with DG Technologies.
+- 📫 How to reach me (raminaama@yahoo.com).
+- 🖇️ LinkedIn (linkedin.com/in/raminaama).
 - Static websites I built:
 - (https://raminaama.github.io/Tea-cozy-HTML-CSS/)
 - (https://raminaama.github.io/VCLHomepage/MainPage/VCLHomePage.html)
