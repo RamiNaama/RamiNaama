@@ -1,6 +1,5 @@
 - 👋Hello there! My name is Rami Naama.
 - 👀 I'm interested in Web Development.
-- 🌱 I'm currently learning HTML & CSS.
 - 🧑‍🎓 I'm a grad student of Software Engineering at The University of Detroit Mercy.
 - 🧑‍🎓 The courses I got at the University of Detroit Mercy: (Java, Data Structures, Software Requirements Engineering, Architectures for Software Systems, Artificial Intelligence, Data Mining, Data Science, Database Management, and Software Engineering).
 - This semester (Fall 2023), I got an internship opportunity with DG Technologies.
