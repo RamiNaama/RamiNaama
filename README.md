@@ -4,7 +4,7 @@
 - 🧑‍🎓 The courses I got at the University of Detroit Mercy: (Java, Data Structures, Software Requirements Engineering, Architectures for Software Systems, Artificial Intelligence, Data Mining, Data Science, Database Management, and Software Engineering).
 - This semester (Fall 2023), I got an internship opportunity with DG Technologies.
 - 📫 How to reach me (raminaama@yahoo.com).
-- 🖇️ LinkedIn (linkedin.com/in/raminaama).
+- 🖇️ LinkedIn ([linkedin.com/in/raminaama](https://www.linkedin.com/in/raminaama/)).
 - Static websites I built:
 - (https://raminaama.github.io/Tea-cozy-HTML-CSS/)
 - (https://raminaama.github.io/VCLHomepage/MainPage/VCLHomePage.html)
